@@ -18,12 +18,13 @@ package com.vang.personal.springframework.data.mirage.repository.query;
 import java.util.Arrays;
 import java.util.List;
 
+import com.vang.personal.sparwings.spring.data.chunk.Chunkable;
 import org.springframework.core.MethodParameter;
 import org.springframework.data.core.TypeInformation;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.repository.query.Parameter;
-import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
+//import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
 
 /**
  * TODO for daisuke

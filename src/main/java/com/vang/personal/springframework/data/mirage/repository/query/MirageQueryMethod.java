@@ -21,6 +21,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Locale;
 
+import com.vang.personal.sparwings.spring.data.chunk.Chunk;
 import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.data.core.TypeInformation;
 import org.springframework.data.projection.ProjectionFactory;
@@ -31,7 +32,7 @@ import org.springframework.data.repository.query.QueryMethod;
 import org.springframework.data.repository.util.QueryExecutionConverters;
 import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
-import vn.com.unit.sparwings.spring.data.chunk.Chunk;
+//import vn.com.unit.sparwings.spring.data.chunk.Chunk;
 
 /**
  * TODO for daisuke

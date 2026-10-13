@@ -17,10 +17,13 @@ package com.vang.personal.springframework.data.mirage.repository;
 
 import java.io.Serializable;
 
+import com.vang.personal.sparwings.spring.data.repository.BatchReadableRepository;
+import com.vang.personal.sparwings.spring.data.repository.BatchWritableRepository;
+import com.vang.personal.sparwings.spring.data.repository.ScannableRepository;
 import org.springframework.data.repository.NoRepositoryBean;
-import vn.com.unit.sparwings.spring.data.repository.BatchReadableRepository;
-import vn.com.unit.sparwings.spring.data.repository.BatchWritableRepository;
-import vn.com.unit.sparwings.spring.data.repository.ScannableRepository;
+//import vn.com.unit.sparwings.spring.data.repository.BatchReadableRepository;
+//import vn.com.unit.sparwings.spring.data.repository.BatchWritableRepository;
+//import vn.com.unit.sparwings.spring.data.repository.ScannableRepository;
 
 /**
  * TODO

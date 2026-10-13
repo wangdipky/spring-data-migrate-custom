@@ -56,8 +56,10 @@ import com.miragesql.miragesql.exception.SQLRuntimeException;
 import com.miragesql.miragesql.naming.NameConverter;
 import com.miragesql.miragesql.util.MirageUtil;
 import com.miragesql.miragesql.util.Validate;
-import vn.com.unit.sparwings.spring.data.chunk.*;
-import vn.com.unit.sparwings.spring.data.repository.*;
+//import vn.com.unit.sparwings.spring.data.chunk.*;
+//import vn.com.unit.sparwings.spring.data.repository.*;
+import com.vang.personal.sparwings.spring.data.chunk.*;
+import com.vang.personal.sparwings.spring.data.repository.*;
 
 /**
  * Mirage SQLを利用した repository 実装クラス。

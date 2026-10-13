@@ -80,11 +80,16 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>vn.com.unit.spar-wings</groupId>
+            <groupId>com.vang.personal</groupId>
             <artifactId>spar-wings-spring-data-chunk</artifactId>
-            <version>1.0.0</version>
-            <scope>compile</scope>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>vn.com.unit.spar-wings</groupId>-->
+<!--            <artifactId>spar-wings-spring-data-chunk</artifactId>-->
+<!--            <version>1.0.0</version>-->
+<!--            <scope>compile</scope>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>

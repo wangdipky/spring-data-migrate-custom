@@ -15,9 +15,10 @@
  */
 package com.vang.personal.springframework.data.mirage.repository.query;
 
+import com.vang.personal.sparwings.spring.data.chunk.Chunkable;
 import org.springframework.data.repository.query.Parameters;
 import org.springframework.data.repository.query.ParametersParameterAccessor;
-import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
+//import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
 
 /**
  * TODO for daisuke

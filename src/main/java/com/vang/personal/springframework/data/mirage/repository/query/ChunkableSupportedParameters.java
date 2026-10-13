@@ -20,10 +20,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
+import com.vang.personal.sparwings.spring.data.chunk.Chunkable;
 import org.springframework.core.MethodParameter;
 import org.springframework.data.repository.query.DefaultParameters;
 import org.springframework.data.repository.query.Parameters;
-import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
+//import vn.com.unit.sparwings.spring.data.chunk.Chunkable;
 
 /**
  * TODO for daisuke
